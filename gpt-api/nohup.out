@@ -1,0 +1,580 @@
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 914-959-006
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/model.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/model.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/model.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 914-959-006
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/model.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/model.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 914-959-006
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 914-959-006
+127.0.0.1 - - [30/Jul/2024 03:22:00] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [30/Jul/2024 03:26:15] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [30/Jul/2024 03:27:22] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [30/Jul/2024 03:28:33] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [30/Jul/2024 03:29:31] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [30/Jul/2024 03:51:16] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [30/Jul/2024 04:16:37] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [30/Jul/2024 04:47:12] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [30/Jul/2024 04:47:24] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [30/Jul/2024 04:47:49] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [30/Jul/2024 04:48:16] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [30/Jul/2024 04:48:31] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [30/Jul/2024 07:22:07] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [30/Jul/2024 07:22:36] "POST /generate HTTP/1.1" 200 -
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 122-760-838
+127.0.0.1 - - [31/Jul/2024 01:33:44] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2024 01:49:12] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2024 01:49:46] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2024 01:50:13] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2024 01:50:25] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2024 01:50:48] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2024 01:52:11] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2024 01:53:24] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2024 01:53:44] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2024 01:58:41] "POST /generate HTTP/1.1" 200 -
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 122-760-838
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 122-760-838
+127.0.0.1 - - [31/Jul/2024 02:53:57] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2024 03:04:06] "POST /generate HTTP/1.1" 200 -
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 122-760-838
+127.0.0.1 - - [31/Jul/2024 03:07:51] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2024 04:19:03] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2024 04:25:26] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2024 04:26:00] "POST /generate HTTP/1.1" 200 -
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 122-760-838
+127.0.0.1 - - [31/Jul/2024 04:34:02] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2024 04:37:14] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2024 04:39:11] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2024 04:42:21] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2024 04:43:03] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2024 04:43:34] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2024 04:45:16] "[35m[1mPOST /options HTTP/1.1[0m" 500 -
+Traceback (most recent call last):
+  File "/home/mycamp/projects/llm_server/.venv/lib/python3.10/site-packages/flask/app.py", line 1498, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/mycamp/projects/llm_server/.venv/lib/python3.10/site-packages/flask/app.py", line 1476, in wsgi_app
+    response = self.handle_exception(e)
+  File "/home/mycamp/projects/llm_server/.venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/mycamp/projects/llm_server/.venv/lib/python3.10/site-packages/flask/app.py", line 883, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/home/mycamp/projects/llm_server/.venv/lib/python3.10/site-packages/flask/app.py", line 902, in finalize_request
+    response = self.make_response(rv)
+  File "/home/mycamp/projects/llm_server/.venv/lib/python3.10/site-packages/flask/app.py", line 1174, in make_response
+    raise TypeError(
+TypeError: The view function for 'generate_options' did not return a valid response. The function either returned None or ended without a return statement.
+127.0.0.1 - - [31/Jul/2024 04:46:22] "[35m[1mPOST /options HTTP/1.1[0m" 500 -
+Traceback (most recent call last):
+  File "/home/mycamp/projects/llm_server/.venv/lib/python3.10/site-packages/flask/app.py", line 1498, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/mycamp/projects/llm_server/.venv/lib/python3.10/site-packages/flask/app.py", line 1476, in wsgi_app
+    response = self.handle_exception(e)
+  File "/home/mycamp/projects/llm_server/.venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/mycamp/projects/llm_server/.venv/lib/python3.10/site-packages/flask/app.py", line 883, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/home/mycamp/projects/llm_server/.venv/lib/python3.10/site-packages/flask/app.py", line 902, in finalize_request
+    response = self.make_response(rv)
+  File "/home/mycamp/projects/llm_server/.venv/lib/python3.10/site-packages/flask/app.py", line 1174, in make_response
+    raise TypeError(
+TypeError: The view function for 'generate_options' did not return a valid response. The function either returned None or ended without a return statement.
+127.0.0.1 - - [31/Jul/2024 04:46:57] "[35m[1mPOST /options HTTP/1.1[0m" 500 -
+Traceback (most recent call last):
+  File "/home/mycamp/projects/llm_server/.venv/lib/python3.10/site-packages/flask/app.py", line 1498, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/home/mycamp/projects/llm_server/.venv/lib/python3.10/site-packages/flask/app.py", line 1476, in wsgi_app
+    response = self.handle_exception(e)
+  File "/home/mycamp/projects/llm_server/.venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/mycamp/projects/llm_server/.venv/lib/python3.10/site-packages/flask/app.py", line 883, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/home/mycamp/projects/llm_server/.venv/lib/python3.10/site-packages/flask/app.py", line 902, in finalize_request
+    response = self.make_response(rv)
+  File "/home/mycamp/projects/llm_server/.venv/lib/python3.10/site-packages/flask/app.py", line 1174, in make_response
+    raise TypeError(
+TypeError: The view function for 'generate_options' did not return a valid response. The function either returned None or ended without a return statement.
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 122-760-838
+Debugging middleware caught exception in streamed response at a point where response headers were already sent.
+Traceback (most recent call last):
+  File "/home/mycamp/projects/llm_server/.venv/lib/python3.10/site-packages/werkzeug/wsgi.py", line 256, in __next__
+    return self._next()
+  File "/home/mycamp/projects/llm_server/.venv/lib/python3.10/site-packages/werkzeug/wrappers/response.py", line 32, in _iter_encoded
+    for item in iterable:
+TypeError: 'NameError' object is not iterable
+127.0.0.1 - - [31/Jul/2024 04:48:40] "[35m[1mPOST /options HTTP/1.1[0m" 500 -
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+{'category': '반려/애완용품', 'tones': ['세련된', '유니크'], 'targets': ['MZ세대', '반려동물 소유자'], 'trends': ['친환경', '유기농'], 'languages': ['영어 느낌', '프랑스어 느낌']}
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 122-760-838
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 122-760-838
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 122-760-838
+Debugging middleware caught exception in streamed response at a point where response headers were already sent.
+Traceback (most recent call last):
+  File "/home/mycamp/projects/llm_server/.venv/lib/python3.10/site-packages/werkzeug/wsgi.py", line 256, in __next__
+    return self._next()
+  File "/home/mycamp/projects/llm_server/.venv/lib/python3.10/site-packages/werkzeug/wrappers/response.py", line 32, in _iter_encoded
+    for item in iterable:
+TypeError: 'NameError' object is not iterable
+127.0.0.1 - - [31/Jul/2024 04:50:02] "[35m[1mPOST /options HTTP/1.1[0m" 500 -
+Debugging middleware caught exception in streamed response at a point where response headers were already sent.
+Traceback (most recent call last):
+  File "/home/mycamp/projects/llm_server/.venv/lib/python3.10/site-packages/werkzeug/wsgi.py", line 256, in __next__
+    return self._next()
+  File "/home/mycamp/projects/llm_server/.venv/lib/python3.10/site-packages/werkzeug/wrappers/response.py", line 32, in _iter_encoded
+    for item in iterable:
+TypeError: 'NameError' object is not iterable
+127.0.0.1 - - [31/Jul/2024 04:51:32] "[35m[1mPOST /options HTTP/1.1[0m" 500 -
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+err name 'jsom' is not defined
+err name 'jsom' is not defined
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 122-760-838
+127.0.0.1 - - [31/Jul/2024 04:52:16] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2024 04:53:13] "POST /options HTTP/1.1" 200 -
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 122-760-838
+127.0.0.1 - - [31/Jul/2024 04:54:05] "POST /options HTTP/1.1" 200 -
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 122-760-838
+127.0.0.1 - - [31/Jul/2024 04:56:00] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2024 04:57:17] "POST /options HTTP/1.1" 200 -
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+gpt-4o-mini 제품・서비스명 새장
+{'category': '반려/애완용품', 'tones': ['친근한', '유쾌한'], 'targets': ['유아동', 'MZ세대'], 'trends': ['친환경'], 'languages': ['순우리말']}
+gpt-4o-mini 제품・서비스명 새장
+{'category': '반려/애완용품', 'tones': ['친근한', '감성적인'], 'targets': ['유아동', 'MZ세대'], 'trends': ['친환경', '수제'], 'languages': ['순우리말']}
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 122-760-838
+Debugging middleware caught exception in streamed response at a point where response headers were already sent.
+Traceback (most recent call last):
+  File "/home/mycamp/projects/llm_server/.venv/lib/python3.10/site-packages/werkzeug/wsgi.py", line 256, in __next__
+    return self._next()
+  File "/home/mycamp/projects/llm_server/.venv/lib/python3.10/site-packages/werkzeug/wrappers/response.py", line 32, in _iter_encoded
+    for item in iterable:
+TypeError: 'TypeError' object is not iterable
+127.0.0.1 - - [31/Jul/2024 05:02:50] "[35m[1mPOST /options HTTP/1.1[0m" 500 -
+Debugging middleware caught exception in streamed response at a point where response headers were already sent.
+Traceback (most recent call last):
+  File "/home/mycamp/projects/llm_server/.venv/lib/python3.10/site-packages/werkzeug/wsgi.py", line 256, in __next__
+    return self._next()
+  File "/home/mycamp/projects/llm_server/.venv/lib/python3.10/site-packages/werkzeug/wrappers/response.py", line 32, in _iter_encoded
+    for item in iterable:
+TypeError: 'TypeError' object is not iterable
+127.0.0.1 - - [31/Jul/2024 05:04:36] "[35m[1mPOST /options HTTP/1.1[0m" 500 -
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+gpt-4o-mini 제품・서비스명 바보
+{'category': 'All 전체', 'tones': ['유쾌한'], 'targets': ['MZ세대'], 'trends': ['즉석'], 'languages': ['순우리말']}
+err dump() missing 1 required positional argument: 'fp'
+gpt-4o-mini 제품・서비스명 구구
+{'category': 'IT/플랫폼/APP', 'tones': ['유니크', '세련된'], 'targets': ['MZ세대', '20~30대'], 'trends': ['기능성', '친환경'], 'languages': ['영어 느낌', '한자어']}
+err dump() missing 1 required positional argument: 'fp'
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 122-760-838
+127.0.0.1 - - [31/Jul/2024 05:05:45] "POST /options HTTP/1.1" 200 -
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+gpt-4o-mini 제품・서비스명 1234
+{'category': 'All 전체', 'tones': ['친근한', '세련된', '감성적인'], 'targets': ['20~30대', 'MZ세대', '직장인'], 'trends': ['기능성', '친환경'], 'languages': ['영어 느낌', '독일어 느낌']}
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 122-760-838
+127.0.0.1 - - [31/Jul/2024 05:06:19] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2024 05:07:16] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2024 05:09:24] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2024 05:10:31] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2024 05:10:32] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2024 05:26:59] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2024 05:26:59] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2024 07:35:04] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2024 07:35:04] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2024 07:35:17] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [31/Jul/2024 07:35:17] "POST /generate HTTP/1.1" 200 -
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 136-096-678
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 324-188-901
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 324-188-901
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 324-188-901
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/model.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/model.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 324-188-901
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/model.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/model.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/model.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 324-188-901
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/prompt.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/prompt.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 324-188-901
+127.0.0.1 - - [01/Aug/2024 06:05:57] "[33mPOST /db/get HTTP/1.1[0m" 404 -
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 324-188-901
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 324-188-901
+127.0.0.1 - - [01/Aug/2024 06:06:53] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2024 06:08:21] "[35m[1mPOST /db/get HTTP/1.1[0m" 500 -
+127.0.0.1 - - [01/Aug/2024 06:08:24] "[35m[1mPOST /db/get HTTP/1.1[0m" 500 -
+127.0.0.1 - - [01/Aug/2024 06:09:41] "[35m[1mPOST /db/get HTTP/1.1[0m" 500 -
+127.0.0.1 - - [01/Aug/2024 06:09:43] "[35m[1mPOST /db/get HTTP/1.1[0m" 500 -
+127.0.0.1 - - [01/Aug/2024 06:09:43] "[35m[1mPOST /db/get HTTP/1.1[0m" 500 -
+127.0.0.1 - - [01/Aug/2024 06:09:43] "[35m[1mPOST /db/get HTTP/1.1[0m" 500 -
+127.0.0.1 - - [01/Aug/2024 06:09:44] "[35m[1mPOST /db/get HTTP/1.1[0m" 500 -
+127.0.0.1 - - [01/Aug/2024 06:09:44] "[35m[1mPOST /db/get HTTP/1.1[0m" 500 -
+127.0.0.1 - - [01/Aug/2024 06:09:57] "[35m[1mPOST /db/get HTTP/1.1[0m" 500 -
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 324-188-901
+127.0.0.1 - - [01/Aug/2024 06:10:30] "[35m[1mPOST /db/get HTTP/1.1[0m" 500 -
+127.0.0.1 - - [01/Aug/2024 06:10:36] "[35m[1mPOST /db/get HTTP/1.1[0m" 500 -
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 324-188-901
+127.0.0.1 - - [01/Aug/2024 06:10:50] "[35m[1mPOST /db/get HTTP/1.1[0m" 500 -
+127.0.0.1 - - [01/Aug/2024 06:10:53] "[35m[1mPOST /db/get HTTP/1.1[0m" 500 -
+127.0.0.1 - - [01/Aug/2024 06:10:56] "[35m[1mPOST /db/get HTTP/1.1[0m" 500 -
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+[Errno 2] No such file or directory: './gpt_api/id_map.json'
+[Errno 2] No such file or directory: './gpt_api/id_map.json'
+[Errno 2] No such file or directory: './gpt_api/id_map.json'
+ * Restarting with watchdog (inotify)
+Traceback (most recent call last):
+  File "/home/mycamp/projects/llm_server/gpt_api/app.py", line 6, in <module>
+    from .model import GPT
+ImportError: attempted relative import with no known parent package
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 324-188-901
+127.0.0.1 - - [01/Aug/2024 06:14:52] "[35m[1mPOST /db/get HTTP/1.1[0m" 500 -
+127.0.0.1 - - [01/Aug/2024 06:15:26] "POST /db/get HTTP/1.1" 200 -
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+ * Detected change in '/home/mycamp/projects/llm_server/gpt_api/app.py', reloading
+name 'uuid' is not defined
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 324-188-901
+127.0.0.1 - - [01/Aug/2024 06:18:30] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2024 06:20:43] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2024 06:20:44] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2024 06:20:44] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2024 06:21:09] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2024 06:22:58] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2024 06:23:12] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2024 06:23:31] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2024 06:23:37] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2024 06:23:55] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2024 06:23:56] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2024 06:23:57] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2024 06:24:08] "POST /db/add HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2024 06:24:13] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2024 06:24:15] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2024 06:24:15] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2024 06:24:23] "POST /db/add HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2024 06:24:35] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2024 06:24:37] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2024 06:24:37] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2024 06:24:55] "POST /db/add HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2024 06:24:57] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2024 06:26:32] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2024 06:27:00] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2024 06:27:22] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [01/Aug/2024 06:29:17] "POST /db/get HTTP/1.1" 200 -
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 449-519-126
+127.0.0.1 - - [02/Aug/2024 01:32:00] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2024 01:32:27] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2024 01:32:30] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2024 01:32:32] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2024 01:32:39] "POST /db/add HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2024 01:32:47] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2024 01:33:01] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2024 01:33:02] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2024 01:33:03] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2024 01:33:13] "POST /db/add HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2024 01:33:17] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2024 01:33:18] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2024 01:33:19] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2024 01:33:29] "POST /db/add HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2024 01:33:41] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2024 01:34:44] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2024 01:34:45] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2024 01:34:46] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2024 01:34:54] "POST /db/add HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2024 01:39:35] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2024 01:40:16] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2024 01:40:27] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2024 01:41:28] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2024 01:42:44] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2024 01:53:03] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2024 01:53:54] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2024 01:54:07] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2024 01:54:09] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2024 01:54:10] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2024 01:54:18] "POST /db/add HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2024 01:55:48] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [02/Aug/2024 02:16:03] "POST /db/get HTTP/1.1" 200 -
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 302-035-251
+127.0.0.1 - - [05/Aug/2024 01:12:39] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 01:15:40] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 01:17:31] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 01:17:32] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 01:20:58] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 01:20:59] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 01:21:00] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 01:21:08] "POST /db/add HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 01:21:10] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 01:21:11] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 01:21:12] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 01:21:22] "POST /db/add HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 01:21:25] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 01:21:27] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 01:21:27] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 01:21:34] "POST /db/add HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 01:21:39] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 01:21:41] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 01:21:42] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 01:21:53] "POST /db/add HTTP/1.1" 200 -
+ * Detected change in '/usr/lib/python3.10/config-3.10-x86_64-linux-gnu/python-config.py.dpkg-new', reloading
+ * Detected change in '/usr/lib/python3.10/ensurepip/__init__.py.dpkg-new', reloading
+ * Detected change in '/usr/lib/python3.10/ensurepip/__main__.py.dpkg-new', reloading
+ * Detected change in '/usr/lib/python3.10/ensurepip/_uninstall.py.dpkg-new', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 302-035-251
+127.0.0.1 - - [05/Aug/2024 03:07:04] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 06:05:42] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 06:07:32] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 06:07:33] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 06:07:34] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 06:07:49] "POST /db/add HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 06:07:55] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 06:07:57] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 06:07:57] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 06:08:06] "POST /db/add HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 06:08:17] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 06:08:19] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 06:08:19] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 06:08:31] "POST /db/add HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 06:08:33] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 06:08:34] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 06:08:35] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 06:08:41] "POST /db/add HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 06:15:29] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 06:15:57] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 06:15:59] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 06:16:00] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 06:16:08] "POST /db/add HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 06:16:36] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 06:16:37] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 06:16:38] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 06:16:47] "POST /db/add HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 06:21:17] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 06:21:18] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 06:21:19] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 06:37:02] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 07:03:39] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 07:04:02] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 07:05:40] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 07:05:41] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 07:05:43] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 07:05:49] "POST /db/add HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 07:06:53] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 07:06:54] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 07:06:55] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2024 07:07:09] "POST /db/add HTTP/1.1" 200 -
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 598-829-462
+127.0.0.1 - - [07/Aug/2024 00:57:42] "POST /db/get HTTP/1.1" 200 -
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 873-315-889
+127.0.0.1 - - [10/Sep/2024 06:17:25] "POST /risa HTTP/1.1" 200 -
+127.0.0.1 - - [10/Sep/2024 07:47:57] "POST /risa HTTP/1.1" 200 -
+127.0.0.1 - - [10/Sep/2024 09:09:44] "[35m[1mPOST /risa HTTP/1.1[0m" 500 -
+127.0.0.1 - - [10/Sep/2024 09:10:07] "[35m[1mPOST /risa HTTP/1.1[0m" 500 -
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 137-220-552
+127.0.0.1 - - [19/Sep/2024 04:12:24] "POST /risa HTTP/1.1" 200 -
+127.0.0.1 - - [19/Sep/2024 04:13:27] "POST /risa HTTP/1.1" 200 -
+127.0.0.1 - - [19/Sep/2024 04:13:42] "[35m[1mPOST /risa HTTP/1.1[0m" 500 -
+127.0.0.1 - - [19/Sep/2024 04:13:59] "[35m[1mPOST /risa HTTP/1.1[0m" 500 -
+127.0.0.1 - - [19/Sep/2024 04:16:08] "[35m[1mPOST /risa HTTP/1.1[0m" 500 -
+127.0.0.1 - - [19/Sep/2024 04:18:01] "[35m[1mPOST /risa HTTP/1.1[0m" 500 -
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 735-210-981
+ * Serving Flask app 'app'
+ * Debug mode: on
+Address already in use
+Port 5001 is in use by another program. Either identify and stop that program, or start the server with a different port.
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 916-250-094
+127.0.0.1 - - [07/Oct/2024 06:37:44] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2024 06:37:44] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2024 06:38:15] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2024 06:38:20] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2024 06:38:22] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2024 06:38:23] "POST /generate HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2024 06:38:28] "POST /db/add HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2024 06:39:38] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2024 06:40:28] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2024 06:40:47] "POST /db/get HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2024 06:40:49] "POST /options HTTP/1.1" 200 -
+127.0.0.1 - - [07/Oct/2024 06:40:50] "POST /generate HTTP/1.1" 200 -

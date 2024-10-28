@@ -1,0 +1,141 @@
+───────────────────────────── Starting Reflex App ──────────────────────────────
+Compiling: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 14/14 0:00:00
+Creating Production Build:  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 9/9 0:00:20
+───────────────────────────────── App Running ──────────────────────────────────
+App running at: http://localhost:3000
+[2024-07-30 02:23:36 +0000] [1725] [ERROR] Worker (pid:1754) was sent SIGHUP!
+───────────────────────────── Starting Reflex App ──────────────────────────────
+Compiling: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 15/15 0:00:00
+Creating Production Build:  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 9/9 0:00:18
+───────────────────────────────── App Running ──────────────────────────────────
+App running at: http://localhost:3000
+[2024-07-30 09:20:33 +0000] [7430] [ERROR] Worker (pid:7459) was sent SIGHUP!
+───────────────────────────── Starting Reflex App ──────────────────────────────
+Compiling: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 15/15 0:00:00
+Creating Production Build:  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 9/9 0:00:30
+───────────────────────────────── App Running ──────────────────────────────────
+App running at: http://localhost:3000
+비둘기 상점 상호명 gpt-4o-mini
+감성돔을 유인하는 밑밥의 상품명 제품・서비스명 gpt-4o-mini
+감성돔을 유인하는 밑밥의 상품명을 지어줘. '감성' 이라는 단어가 들어가면 좋겠어 제품・서비스명 gpt-4o-mini
+감성돔을 유인하는 밑밥의 상품명을 지어줘. 낚시용이야. 그리고 '감성' 이라는 단어가 들어가면 좋겠어 제품・서비스명 gpt-4o-mini
+감성돔을 유인하는 밑밥의 상품명을 지어줘. 낚시용이야. 그리고 '감성' 이라는 단어가 들어가면 좋겠어 제품・서비스명 gpt-4o
+감성돔을 유인하는 밑밥의 상품명을 지어줘. 낚시용이야. 그리고 '감성' 이라는 단어가 들어가면 좋겠어 제품・서비스명 gpt-4o
+벵에돔을 유인하는 밑밥의 상품명을 지어줘. 밑밥은 빵가루야. 낚시용이야. 그리고 '벵' 이라는 단어가 들어가면 좋겠어 제품・서비스명 gpt-4o
+벵에돔을 유인하는 밑밥의 상품명을 지어줘. 밑밥은 빵가루야. 낚시용이야. 그리고 '벵' 이라는 단어가 들어가면 좋겠어 제품・서비스명 gpt-4o-mini
+벵에돔을 유인하는 밑밥의 상품명을 지어줘. 밑밥은 빵가루야. 낚시용이야. 그리고 '벵' 이라는 단어가 들어가면 좋겠어 제품・서비스명 gpt-4o-mini
+마늘과 양파맛이 나는 과자이름이야. 나이드신분들이 먹을거야. 제품・서비스명 gpt-4o-mini
+마늘과 양파맛이 나는 과자이름이야. 나이드신분들이 먹을거야. 상호명 gpt-4o-mini
+비둘기이름 상호명 gpt-4o-mini
+비둘기이름 상호명 gpt-4o-mini
+생선 모양 장난감 상호명 gpt-4o-mini
+생선 모양 장난감 상호명 gpt-4o-mini
+생선 모양 장난감 상호명 gpt-4o-mini
+마늘과 양파맛이 나는 과자이름이야. 나이드신분들이 먹을거야. 상호명 gpt-4o-mini
+생선 모양 장난감 제품・서비스명 gpt-4o-mini
+생선 모양 장난감 상호명 gpt-4o-mini
+생선 모양 장난감 상호명 gpt-4o-mini
+생선 모양 장난감 상호명 gpt-4o-mini
+생선 모양 장난감 상호명 gpt-4o-mini
+[04:44:31] Reflex app stopped.                                     console.py:95
+───────────────────────────── Starting Reflex App ──────────────────────────────
+
+Aborted!
+───────────────────────────── Starting Reflex App ──────────────────────────────
+Compiling: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 15/15 0:00:00
+Creating Production Build:  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 9/9 0:00:16
+───────────────────────────────── App Running ──────────────────────────────────
+App running at: http://localhost:3000
+[2024-07-31 11:10:19 +0000] [10646] [ERROR] Worker (pid:10675) was sent SIGHUP!
+───────────────────────────── Starting Reflex App ──────────────────────────────
+Compiling: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 15/15 0:00:00
+Creating Production Build:  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 9/9 0:00:30
+───────────────────────────────── App Running ──────────────────────────────────
+App running at: http://localhost:3000
+[2024-08-01 00:49:26 +0000] [1739] [ERROR] Worker (pid:1771) was sent SIGHUP!
+───────────────────────────── Starting Reflex App ──────────────────────────────
+Compiling: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 15/15 0:00:00
+Creating Production Build:  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 9/9 0:00:32
+───────────────────────────────── App Running ──────────────────────────────────
+App running at: http://localhost:3000
+[06:01:40] Reflex app stopped.                                     console.py:95
+───────────────────────────── Starting Reflex App ──────────────────────────────
+Compiling: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 15/15 0:00:00
+Creating Production Build:  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 9/9 0:00:16
+───────────────────────────────── App Running ──────────────────────────────────
+App running at: http://localhost:3000
+[2024-08-01 06:30:44 +0000] [4940] [ERROR] Worker (pid:4968) was sent SIGHUP!
+Starting frontend failed with exit code -1
+
+> prod
+> next start
+
+   ▲ Next.js 14.0.1
+   - Local:        http://localhost:3000
+
+ ✓ Ready in 406ms
+Run with --loglevel debug  for the full log.
+[2024-08-01 06:31:03 +0000] [4940] [ERROR] Worker (pid:4979) was sent SIGHUP!
+───────────────────────────── Starting Reflex App ──────────────────────────────
+Compiling: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 15/15 0:00:00
+Creating Production Build:  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 9/9 0:00:29
+───────────────────────────────── App Running ──────────────────────────────────
+App running at: http://localhost:3000
+[2024-08-02 11:10:19 +0000] [1717] [ERROR] Worker (pid:1746) was sent SIGHUP!
+───────────────────────────── Starting Reflex App ──────────────────────────────
+Compiling: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 15/15 0:00:00
+Creating Production Build:  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 9/9 0:00:30
+───────────────────────────────── App Running ──────────────────────────────────
+App running at: http://localhost:3000
+[01:16:49] Reflex app stopped.                                     console.py:95
+───────────────────────────── Starting Reflex App ──────────────────────────────
+
+Aborted!
+───────────────────────────── Starting Reflex App ──────────────────────────────
+Compiling: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 15/15 0:00:00
+Creating Production Build:  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 9/9 0:00:16
+───────────────────────────────── App Running ──────────────────────────────────
+App running at: http://localhost:3000
+[2024-08-05 11:10:19 +0000] [2401] [ERROR] Worker (pid:2429) was sent SIGHUP!
+───────────────────────────── Starting Reflex App ──────────────────────────────
+Compiling: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 15/15 0:00:00
+Creating Production Build:  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 9/9 0:00:30
+───────────────────────────────── App Running ──────────────────────────────────
+App running at: http://localhost:3000
+[2024-08-07 11:10:20 +0000] [1641] [ERROR] Worker (pid:1670) was sent SIGHUP!
+───────────────────────────── Starting Reflex App ──────────────────────────────
+Compiling: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 16/16 0:00:00
+Creating Production Build:  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 9/9 0:00:19
+───────────────────────────────── App Running ──────────────────────────────────
+App running at: http://localhost:3000
+[2024-09-11 00:51:31 +0000] [12643] [ERROR] Worker (pid:12686) was sent SIGHUP!
+───────────────────────────── Starting Reflex App ──────────────────────────────
+Compiling: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 16/16 0:00:00
+Creating Production Build:  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 9/9 0:00:32
+───────────────────────────────── App Running ──────────────────────────────────
+App running at: http://localhost:3000
+[2024-09-19 08:56:06 +0000] [1880] [ERROR] Worker (pid:1909) was sent SIGHUP!
+───────────────────────────── Starting Reflex App ──────────────────────────────
+Compiling: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 16/16 0:00:00
+Creating Production Build:  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 9/9 0:00:32
+───────────────────────────────── App Running ──────────────────────────────────
+App running at: http://localhost:3000
+Info: The frontend will run on port 3001.
+Info: The backend will run on port 8001.
+Info: Overriding config value frontend_port with env var FRONTEND_PORT=3001
+Info: Overriding config value backend_port with env var BACKEND_PORT=8001
+───────────────────────────── Starting Reflex App ──────────────────────────────
+Compiling: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 16/16 0:00:00
+Creating Production Build:  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 9/9 0:00:16
+───────────────────────────────── App Running ──────────────────────────────────
+App running at: http://localhost:3001
+Info: Overriding config value frontend_port with env var FRONTEND_PORT=3001
+Info: Overriding config value backend_port with env var BACKEND_PORT=8001
+[2024-10-07 06:33:44 +0000] [20185] [ERROR] Worker (pid:20214) was sent SIGHUP!
+[2024-10-07 06:33:44 +0000] [20549] [ERROR] Worker (pid:20578) was sent SIGHUP!
+───────────────────────────── Starting Reflex App ──────────────────────────────
+Compiling: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 16/16 0:00:00
+Creating Production Build:  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 9/9 0:00:32
+───────────────────────────────── App Running ──────────────────────────────────
+App running at: http://localhost:3000
+[2024-10-07 07:03:54 +0000] [1677] [ERROR] Worker (pid:1706) was sent SIGHUP!
